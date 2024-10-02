@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning : typescript, Next JS
 - 📫 How to reach me: amir.diba.da@gmail.com
 - 😄 Pronouns: He/Him
---> Technologies : HTML, CSS, Javascript, React, Tailwind, Java, Python
+- Technologies : HTML, CSS, Javascript, React, Tailwind, Java, Python
+--> 
