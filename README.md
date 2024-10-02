@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Amir8-5/Amir8-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I am in University of Toronto for Computer Science. I am passionate about web development in general but specifically frontend development. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
