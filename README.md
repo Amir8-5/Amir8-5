@@ -1,4 +1,4 @@
-## I am in University of Toronto for Computer Science. I am passionate about web development in general but specifically frontend development. 
+## I am in University of Toronto for Computer Science. I am passionate about web development in general but specifically full-stack development. 
 
 
 - 🌱 I’m currently learning : typescript, Next JS
